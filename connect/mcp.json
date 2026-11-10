@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "shopfetch": {
+      "url": "https://shopfetch.ai/mcp",
+      "transport": "streamable-http"
+    }
+  }
+}
