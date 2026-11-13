@@ -3,7 +3,7 @@
   "name": "ai.shopfetch/shopfetch",
   "description": "Did your AI pick the right product?",
   "title": "shopfetch",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "websiteUrl": "https://shopfetch.ai",
   "icons": [
     {
@@ -29,7 +29,7 @@
   ],
   "_meta": {
     "io.modelcontextprotocol.registry/publisher-provided": {
-      "organisation": "GreenCore Solutions Corp.",
+      "organisation": "WeFetch AI Corp.",
       "powered_by": "https://gtinfetch.ai",
       "product": "wefetch"
     }
